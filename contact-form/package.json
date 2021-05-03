@@ -9,6 +9,8 @@
   "author": "wafiq16",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
     "fs": "*",
     "http": "*",
     "nodemailer": "^6.5.0",

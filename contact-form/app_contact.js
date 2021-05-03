@@ -37,7 +37,7 @@ http.createServer((req, res) => {
                 service: 'gmail',
                 auth: {
                     user: 'blueamethys16@gmail.com',
-                    pass: 'isienpasswordmudewe'
+                    pass: 'kamaluddin123'
                 }
             });
 
